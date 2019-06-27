@@ -1,3 +1,7 @@
+# Housekeeping...
+.DS_Store
+*.orig
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
